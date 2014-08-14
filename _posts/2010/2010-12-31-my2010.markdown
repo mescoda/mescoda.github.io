@@ -1,0 +1,511 @@
+---
+layout: post
+status: publish
+published: true
+title: Mescoda's 2010
+author:
+  display_name: mescoda
+  login: mescoda
+  email: mescodasun@gmail.com
+  url: ''
+author_login: mescoda
+author_email: mescodasun@gmail.com
+excerpt: "<strong>读书</strong>：\r\n\r\n<img src=\"http://chart.apis.google.com/chart?chs=400x200&amp;cht=bvs&amp;chd=s:AASAPJMfSufx&amp;chxt=y,x,x&amp;chxl=0:%7C0%7C5%7C10%7C15%7C20%7C1:%7C1%7C2%7C3%7C4%7C5%7C6%7C7%7C8%7C9%7C10%7C11%7C12%7C2:%7Cmonth&amp;chxp=2,100&amp;chf=c,lg,90,76A4FB,0.5,ffffff,0%7Cbg,s,EFEFEF&amp;chco=0000ff&amp;chtt=75%20books+you+added+in+year+2010%7Cdivided+by+month\"
+  id=\"chartMonth\"><div id=\"doubanlist\"><table><tbody><tr></tr><tr><td><a href=\"http://book.douban.com/subject/1062193/\"
+  target=\"_blank\" title=\"娱乐至死\"><img src=\"http://img3.douban.com/spic/s1240767.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3203754/\" target=\"_blank\"
+  title=\"俺の妹がこんなに可愛いわけがない〈1〉\"><img src=\"http://img3.douban.com/spic/s3247811.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/5290524/\" target=\"_blank\"
+  title=\"微革命(微小的创新颠覆世界)\"><img src=\"http://img3.douban.com/spic/s4484196.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/3223711/\" target=\"_blank\" title=\"怪诞行为学\"><img
+  src=\"http://img3.douban.com/spic/s3918122.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/2340100/\"
+  target=\"_blank\" title=\"遇见未知的自己\"><img src=\"http://img3.douban.com/spic/s3403254.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1169472/\" target=\"_blank\"
+  title=\"微积分之屠龙宝刀\"><img src=\"http://img3.douban.com/spic/s2254636.jpg\" border=\"0\"></a></td></tr><tr><td><a
+  href=\"http://book.douban.com/subject/4732427/\" target=\"_blank\" title=\"十二味生活设计\"><img
+  src=\"http://img3.douban.com/spic/s4378816.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3266445/\"
+  target=\"_blank\" title=\"名博是怎样炼成的\"><img src=\"http://img3.douban.com/spic/s3324873.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/5245583/\" target=\"_blank\"
+  title=\"中二病中毒说明书\"><img src=\"http://img3.douban.com/spic/s4458806.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/4242172/\" target=\"_blank\" title=\"天才在左
+  疯子在右\"><img src=\"http://img3.douban.com/spic/s4142090.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/3344676/\" target=\"_blank\" title=\"常识\"><img
+  src=\"http://img3.douban.com/spic/s3519629.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1051749/\"
+  target=\"_blank\" title=\"上海歹土\"><img src=\"http://img3.douban.com/spic/s1038768.jpg\"
+  border=\"0\"></a></td></tr><tr><td><a href=\"http://book.douban.com/subject/1051507/\"
+  target=\"_blank\" title=\"10倍速影像阅读法\"><img src=\"http://img3.douban.com/spic/s1088983.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/4306582/\" target=\"_blank\"
+  title=\"正在爆发的营销革命\"><img src=\"http://img5.douban.com/spic/s4235115.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/3682204/\" target=\"_blank\" title=\"佐藤可士和的超整理术\"><img
+  src=\"http://img3.douban.com/spic/s3753892.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/2363651/\"
+  target=\"_blank\" title=\"十四堂人生创意课\"><img src=\"http://img3.douban.com/spic/s3040604.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1101268/\" target=\"_blank\"
+  title=\"新定位\"><img src=\"http://img3.douban.com/spic/s1200954.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/2143304/\" target=\"_blank\" title=\"我爱问连岳\"><img
+  src=\"http://img3.douban.com/spic/s2595969.jpg\" border=\"0\"></a></td></tr><tr><td><a
+  href=\"http://book.douban.com/subject/4124727/\" target=\"_blank\" title=\"孤独六讲\"><img
+  src=\"http://img3.douban.com/spic/s4075572.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/2981589/\"
+  target=\"_blank\" title=\"美妙的新世界\"><img src=\"http://img3.douban.com/spic/s2889581.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3724680/\" target=\"_blank\"
+  title=\"外星人就在月球背面\"><img src=\"http://img3.douban.com/spic/s3793852.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/3685204/\" target=\"_blank\" title=\"长尾理论2.0\"><img
+  src=\"http://img3.douban.com/spic/s3750308.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3228668/\"
+  target=\"_blank\" title=\"上帝掷骰子吗\"><img src=\"http://img3.douban.com/spic/s3305272.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/4760725/\" target=\"_blank\"
+  title=\"演讲之禅：一位技术演讲家的自白\"><img src=\"http://img3.douban.com/spic/s4279952.jpg\"
+  border=\"0\"></a></td></tr><tr><td><a href=\"http://book.douban.com/subject/4246979/\"
+  target=\"_blank\" title=\"窄门\"><img src=\"http://img3.douban.com/spic/s4256609.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/4011670/\" target=\"_blank\"
+  title=\"人间失格\"><img src=\"http://img3.douban.com/spic/s4016513.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/5275059/\" target=\"_blank\" title=\"1988：我想和这个世界谈谈\"><img
+  src=\"http://img3.douban.com/spic/s4477716.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/4113090/\"
+  target=\"_blank\" title=\"我们台湾这些年\"><img src=\"http://img3.douban.com/spic/s4036921.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/4741216/\" target=\"_blank\"
+  title=\"我的奋斗\"><img src=\"http://img3.douban.com/spic/s4270619.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/2244869/\" target=\"_blank\" title=\"瞬間贏得信任的冷讀術\"><img
+  src=\"http://img5.douban.com/spic/s2687225.jpg\" border=\"0\"></a></td></tr><tr><td><a
+  href=\"http://book.douban.com/subject/2154040/\" target=\"_blank\" title=\"绝妙逻辑（下）\"><img
+  src=\"http://img5.douban.com/spic/s2609595.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/5326870/\"
+  target=\"_blank\" title=\"黄长烨回忆录\"><img src=\"http://img3.douban.com/spic/s4507140.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/4184775/\" target=\"_blank\"
+  title=\"企鹅凶猛\"><img src=\"http://img3.douban.com/spic/s4090110.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/2037955/\" target=\"_blank\" title=\"绝妙逻辑（上）\"><img
+  src=\"http://img3.douban.com/spic/s2353512.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3792147/\"
+  target=\"_blank\" title=\"Head First Networking\"><img src=\"http://img3.douban.com/spic/s4243081.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/2208548/\" target=\"_blank\"
+  title=\"CSS：影印版\"><img src=\"http://img3.douban.com/spic/s2830899.jpg\" border=\"0\"></a></td></tr><tr><td><a
+  href=\"http://book.douban.com/subject/1271579/\" target=\"_blank\" title=\"礼物\"><img
+  src=\"http://img3.douban.com/spic/s1408239.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3815992/\"
+  target=\"_blank\" title=\"白骨精学习法\"><img src=\"http://img3.douban.com/spic/s3871001.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1396340/\" target=\"_blank\"
+  title=\"AV現場\"><img src=\"http://img3.douban.com/spic/s3334219.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/3744041/\" target=\"_blank\" title=\"晨间日记的奇迹\"><img
+  src=\"http://img3.douban.com/spic/s3981066.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1423818/\"
+  target=\"_blank\" title=\"如何在大学里脱颖而出:一流大学顶尖学生的成功指南\"><img src=\"http://img3.douban.com/spic/s2179989.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/2037956/\" target=\"_blank\"
+  title=\"懸樑高校\"><img src=\"http://img3.douban.com/spic/s2353513.jpg\" border=\"0\"></a></td></tr><tr><td><a
+  href=\"http://book.douban.com/subject/3852697/\" target=\"_blank\" title=\"少的力量\"><img
+  src=\"http://img3.douban.com/spic/s3908311.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1874488/\"
+  target=\"_blank\" title=\"别做正常的傻瓜\"><img src=\"http://img5.douban.com/spic/s2168875.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1930701/\" target=\"_blank\"
+  title=\"絞首浪漫派\"><img src=\"http://img3.douban.com/spic/s2746519.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/3043693/\" target=\"_blank\" title=\"C语言入门经典（第4版）\"><img
+  src=\"http://img3.douban.com/spic/s3075013.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1794287/\"
+  target=\"_blank\" title=\"斬首循環\"><img src=\"http://img3.douban.com/spic/s3234229.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/4191526/\" target=\"_blank\"
+  title=\"Google知道你多少秘密\"><img src=\"http://img3.douban.com/spic/s4105176.jpg\" border=\"0\"></a></td></tr><tr><td><a
+  href=\"http://book.douban.com/subject/1474667/\" target=\"_blank\" title=\"搜\"><img
+  src=\"http://img3.douban.com/spic/s2006178.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/2242942/\"
+  target=\"_blank\" title=\"How to Study in College\"><img src=\"http://img3.douban.com/spic/s2683553.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1679623/\" target=\"_blank\"
+  title=\"C程序设计（第三版）\"><img src=\"http://img3.douban.com/spic/s1512029.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/4006425/\" target=\"_blank\" title=\"我是一只IT小小鸟\"><img
+  src=\"http://img3.douban.com/spic/s3958139.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1472137/\"
+  target=\"_blank\" title=\"Head First HTML with CSS &amp; XHTML\"><img src=\"http://img3.douban.com/spic/s4228152.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3636385/\" target=\"_blank\"
+  title=\"超新星纪元\"><img src=\"http://img3.douban.com/spic/s3700467.jpg\" border=\"0\"></a></td></tr><tr><td><a
+  href=\"http://book.douban.com/subject/1392714/\" target=\"_blank\" title=\"老板要你在大学里学的10件事\"><img
+  src=\"http://img5.douban.com/spic/s2293175.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1192090/\"
+  target=\"_blank\" title=\"球状闪电\"><img src=\"http://img3.douban.com/spic/s3699920.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3066477/\" target=\"_blank\"
+  title=\"三体Ⅱ\"><img src=\"http://img3.douban.com/spic/s3078482.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/4886245/\" target=\"_blank\" title=\"独唱团（第一辑）\"><img
+  src=\"http://img3.douban.com/spic/s4436571.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/2567698/\"
+  target=\"_blank\" title=\"三体\"><img src=\"http://img3.douban.com/spic/s2768378.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/2013501/\" target=\"_blank\"
+  title=\"概率统计(第3版)——图灵数学·统计学丛书\"><img src=\"http://img3.douban.com/spic/s2273571.jpg\"
+  border=\"0\"></a></td></tr><tr><td><a href=\"http://book.douban.com/subject/3211779/\"
+  target=\"_blank\" title=\"嫌疑人X的献身\"><img src=\"http://img3.douban.com/spic/s3254244.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/4157223/\" target=\"_blank\"
+  title=\"效率提升10倍的google化知性生产技巧\"><img src=\"http://img3.douban.com/spic/s4088351.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1775691/\" target=\"_blank\"
+  title=\"少有人走的路\"><img src=\"http://img3.douban.com/spic/s2144391.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/3360555/\" target=\"_blank\" title=\"秋叶原@DEEP\"><img
+  src=\"http://img3.douban.com/spic/s3671280.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1082387/\"
+  target=\"_blank\" title=\"一九八四\"><img src=\"http://img3.douban.com/spic/s1089916.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1085660/\" target=\"_blank\"
+  title=\"尽管去做\"><img src=\"http://img3.douban.com/spic/s1796471.jpg\" border=\"0\"></a></td></tr><tr><td><a
+  href=\"http://book.douban.com/subject/1115353/\" target=\"_blank\" title=\"奇特的一生\"><img
+  src=\"http://img3.douban.com/spic/s1093496.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3609132/\"
+  target=\"_blank\" title=\"把时间当作朋友\"><img src=\"http://img3.douban.com/spic/s3778613.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/1471662/\" target=\"_blank\"
+  title=\"GOOGLE HACKS\"><img src=\"http://img3.douban.com/spic/s1726102.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/2458027/\" target=\"_blank\" title=\"Powerful
+  Sleep\"><img src=\"http://img3.douban.com/spic/s2991117.jpg\" border=\"0\"></a></td><td><a
+  href=\"http://book.douban.com/subject/1939182/\" target=\"_blank\" title=\"美国众神\"><img
+  src=\"http://img3.douban.com/spic/s1947928.jpg\" border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3053662/\"
+  target=\"_blank\" title=\"紅~醜悪祭 下 (3) (集英社スーパーダッシュ文庫 か 9-7)\"><img src=\"http://img3.douban.com/spic/s3054287.jpg\"
+  border=\"0\"></a></td></tr><tr><td><a href=\"http://book.douban.com/subject/3009172/\"
+  target=\"_blank\" title=\"紅 〜醜悪祭〜（上） (集英社スーパーダッシュ文庫 か 9-6)\"><img src=\"http://img3.douban.com/spic/s2965448.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3018045/\" target=\"_blank\"
+  title=\"紅 kure-nai ~ 斷頭台 ~\"><img src=\"http://img3.douban.com/spic/s2977023.jpg\"
+  border=\"0\"></a></td><td><a href=\"http://book.douban.com/subject/3018042/\" target=\"_blank\"
+  title=\"紅 Kure-nai\"><img src=\"http://img3.douban.com/spic/s2977016.jpg\" border=\"0\"></a></td></tr></tbody></table></div>\r\n\r\n"
+wordpress_id: 129
+wordpress_url: http://mescoda.com/?p=129
+date: '2010-12-31 21:33:04 +0800'
+date_gmt: '2010-12-31 13:33:04 +0800'
+categories:
+- "飘逸的生活"
+tags:
+- Recollection
+- Summary
+- Anime
+- Douban
+- Movie
+comments:
+- id: 88
+  author: Leo_wei
+  author_email: weisw0310@gmail.com
+  author_url: http://www.paradoxleo.com
+  date: '2010-12-31 21:40:33 +0800'
+  date_gmt: '2010-12-31 13:40:33 +0800'
+  content: "你看的书好多啊！看得我都惭愧了~~"
+- id: 89
+  author: Mescoda
+  author_email: mescodasun@gmail.com
+  author_url: http://mescoda.com
+  date: '2011-01-01 00:12:43 +0800'
+  date_gmt: '2010-12-31 16:12:43 +0800'
+  content: "@Leo_wei, 你考完研也会有时间大量阅读啦。"
+- id: 93
+  author: NStal
+  author_email: nstalmail@gmail.com
+  author_url: http://www.nstal.org
+  date: '2011-01-06 00:00:14 +0800'
+  date_gmt: '2011-01-05 16:00:14 +0800'
+  content: "喵~"
+- id: 802
+  author: bonley
+  author_email: bonley@qq.com
+  author_url: http://www.mydll.org
+  date: '2012-05-10 09:36:50 +0800'
+  date_gmt: '2012-05-10 01:36:50 +0800'
+  content: "博主觉得看电子书和纸张书有何区别\r\nhttp://www.rabbit8.com"
+---
+<p><strong>读书</strong>：</p>
+<p><img src="http://chart.apis.google.com/chart?chs=400x200&amp;cht=bvs&amp;chd=s:AASAPJMfSufx&amp;chxt=y,x,x&amp;chxl=0:%7C0%7C5%7C10%7C15%7C20%7C1:%7C1%7C2%7C3%7C4%7C5%7C6%7C7%7C8%7C9%7C10%7C11%7C12%7C2:%7Cmonth&amp;chxp=2,100&amp;chf=c,lg,90,76A4FB,0.5,ffffff,0%7Cbg,s,EFEFEF&amp;chco=0000ff&amp;chtt=75%20books+you+added+in+year+2010%7Cdivided+by+month" id="chartMonth">
+<div id="doubanlist">
+<table>
+<tbody>
+<tr></tr>
+<tr>
+<td><a href="http://book.douban.com/subject/1062193/" target="_blank" title="娱乐至死"><img src="http://img3.douban.com/spic/s1240767.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3203754/" target="_blank" title="俺の妹がこんなに可愛いわけがない〈1〉"><img src="http://img3.douban.com/spic/s3247811.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/5290524/" target="_blank" title="微革命(微小的创新颠覆世界)"><img src="http://img3.douban.com/spic/s4484196.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3223711/" target="_blank" title="怪诞行为学"><img src="http://img3.douban.com/spic/s3918122.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2340100/" target="_blank" title="遇见未知的自己"><img src="http://img3.douban.com/spic/s3403254.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1169472/" target="_blank" title="微积分之屠龙宝刀"><img src="http://img3.douban.com/spic/s2254636.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/4732427/" target="_blank" title="十二味生活设计"><img src="http://img3.douban.com/spic/s4378816.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3266445/" target="_blank" title="名博是怎样炼成的"><img src="http://img3.douban.com/spic/s3324873.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/5245583/" target="_blank" title="中二病中毒说明书"><img src="http://img3.douban.com/spic/s4458806.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4242172/" target="_blank" title="天才在左 疯子在右"><img src="http://img3.douban.com/spic/s4142090.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3344676/" target="_blank" title="常识"><img src="http://img3.douban.com/spic/s3519629.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1051749/" target="_blank" title="上海歹土"><img src="http://img3.douban.com/spic/s1038768.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/1051507/" target="_blank" title="10倍速影像阅读法"><img src="http://img3.douban.com/spic/s1088983.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4306582/" target="_blank" title="正在爆发的营销革命"><img src="http://img5.douban.com/spic/s4235115.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3682204/" target="_blank" title="佐藤可士和的超整理术"><img src="http://img3.douban.com/spic/s3753892.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2363651/" target="_blank" title="十四堂人生创意课"><img src="http://img3.douban.com/spic/s3040604.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1101268/" target="_blank" title="新定位"><img src="http://img3.douban.com/spic/s1200954.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2143304/" target="_blank" title="我爱问连岳"><img src="http://img3.douban.com/spic/s2595969.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/4124727/" target="_blank" title="孤独六讲"><img src="http://img3.douban.com/spic/s4075572.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2981589/" target="_blank" title="美妙的新世界"><img src="http://img3.douban.com/spic/s2889581.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3724680/" target="_blank" title="外星人就在月球背面"><img src="http://img3.douban.com/spic/s3793852.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3685204/" target="_blank" title="长尾理论2.0"><img src="http://img3.douban.com/spic/s3750308.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3228668/" target="_blank" title="上帝掷骰子吗"><img src="http://img3.douban.com/spic/s3305272.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4760725/" target="_blank" title="演讲之禅：一位技术演讲家的自白"><img src="http://img3.douban.com/spic/s4279952.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/4246979/" target="_blank" title="窄门"><img src="http://img3.douban.com/spic/s4256609.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4011670/" target="_blank" title="人间失格"><img src="http://img3.douban.com/spic/s4016513.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/5275059/" target="_blank" title="1988：我想和这个世界谈谈"><img src="http://img3.douban.com/spic/s4477716.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4113090/" target="_blank" title="我们台湾这些年"><img src="http://img3.douban.com/spic/s4036921.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4741216/" target="_blank" title="我的奋斗"><img src="http://img3.douban.com/spic/s4270619.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2244869/" target="_blank" title="瞬間贏得信任的冷讀術"><img src="http://img5.douban.com/spic/s2687225.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/2154040/" target="_blank" title="绝妙逻辑（下）"><img src="http://img5.douban.com/spic/s2609595.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/5326870/" target="_blank" title="黄长烨回忆录"><img src="http://img3.douban.com/spic/s4507140.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4184775/" target="_blank" title="企鹅凶猛"><img src="http://img3.douban.com/spic/s4090110.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2037955/" target="_blank" title="绝妙逻辑（上）"><img src="http://img3.douban.com/spic/s2353512.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3792147/" target="_blank" title="Head First Networking"><img src="http://img3.douban.com/spic/s4243081.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2208548/" target="_blank" title="CSS：影印版"><img src="http://img3.douban.com/spic/s2830899.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/1271579/" target="_blank" title="礼物"><img src="http://img3.douban.com/spic/s1408239.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3815992/" target="_blank" title="白骨精学习法"><img src="http://img3.douban.com/spic/s3871001.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1396340/" target="_blank" title="AV現場"><img src="http://img3.douban.com/spic/s3334219.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3744041/" target="_blank" title="晨间日记的奇迹"><img src="http://img3.douban.com/spic/s3981066.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1423818/" target="_blank" title="如何在大学里脱颖而出:一流大学顶尖学生的成功指南"><img src="http://img3.douban.com/spic/s2179989.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2037956/" target="_blank" title="懸樑高校"><img src="http://img3.douban.com/spic/s2353513.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/3852697/" target="_blank" title="少的力量"><img src="http://img3.douban.com/spic/s3908311.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1874488/" target="_blank" title="别做正常的傻瓜"><img src="http://img5.douban.com/spic/s2168875.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1930701/" target="_blank" title="絞首浪漫派"><img src="http://img3.douban.com/spic/s2746519.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3043693/" target="_blank" title="C语言入门经典（第4版）"><img src="http://img3.douban.com/spic/s3075013.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1794287/" target="_blank" title="斬首循環"><img src="http://img3.douban.com/spic/s3234229.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4191526/" target="_blank" title="Google知道你多少秘密"><img src="http://img3.douban.com/spic/s4105176.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/1474667/" target="_blank" title="搜"><img src="http://img3.douban.com/spic/s2006178.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2242942/" target="_blank" title="How to Study in College"><img src="http://img3.douban.com/spic/s2683553.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1679623/" target="_blank" title="C程序设计（第三版）"><img src="http://img3.douban.com/spic/s1512029.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4006425/" target="_blank" title="我是一只IT小小鸟"><img src="http://img3.douban.com/spic/s3958139.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1472137/" target="_blank" title="Head First HTML with CSS &amp; XHTML"><img src="http://img3.douban.com/spic/s4228152.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3636385/" target="_blank" title="超新星纪元"><img src="http://img3.douban.com/spic/s3700467.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/1392714/" target="_blank" title="老板要你在大学里学的10件事"><img src="http://img5.douban.com/spic/s2293175.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1192090/" target="_blank" title="球状闪电"><img src="http://img3.douban.com/spic/s3699920.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3066477/" target="_blank" title="三体Ⅱ"><img src="http://img3.douban.com/spic/s3078482.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4886245/" target="_blank" title="独唱团（第一辑）"><img src="http://img3.douban.com/spic/s4436571.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2567698/" target="_blank" title="三体"><img src="http://img3.douban.com/spic/s2768378.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2013501/" target="_blank" title="概率统计(第3版)——图灵数学·统计学丛书"><img src="http://img3.douban.com/spic/s2273571.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/3211779/" target="_blank" title="嫌疑人X的献身"><img src="http://img3.douban.com/spic/s3254244.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/4157223/" target="_blank" title="效率提升10倍的google化知性生产技巧"><img src="http://img3.douban.com/spic/s4088351.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1775691/" target="_blank" title="少有人走的路"><img src="http://img3.douban.com/spic/s2144391.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3360555/" target="_blank" title="秋叶原@DEEP"><img src="http://img3.douban.com/spic/s3671280.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1082387/" target="_blank" title="一九八四"><img src="http://img3.douban.com/spic/s1089916.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1085660/" target="_blank" title="尽管去做"><img src="http://img3.douban.com/spic/s1796471.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/1115353/" target="_blank" title="奇特的一生"><img src="http://img3.douban.com/spic/s1093496.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3609132/" target="_blank" title="把时间当作朋友"><img src="http://img3.douban.com/spic/s3778613.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1471662/" target="_blank" title="GOOGLE HACKS"><img src="http://img3.douban.com/spic/s1726102.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/2458027/" target="_blank" title="Powerful Sleep"><img src="http://img3.douban.com/spic/s2991117.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/1939182/" target="_blank" title="美国众神"><img src="http://img3.douban.com/spic/s1947928.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3053662/" target="_blank" title="紅~醜悪祭 下 (3) (集英社スーパーダッシュ文庫 か 9-7)"><img src="http://img3.douban.com/spic/s3054287.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://book.douban.com/subject/3009172/" target="_blank" title="紅 〜醜悪祭〜（上） (集英社スーパーダッシュ文庫 か 9-6)"><img src="http://img3.douban.com/spic/s2965448.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3018045/" target="_blank" title="紅 kure-nai ~ 斷頭台 ~"><img src="http://img3.douban.com/spic/s2977023.jpg" border="0"></a></td>
+<td><a href="http://book.douban.com/subject/3018042/" target="_blank" title="紅 Kure-nai"><img src="http://img3.douban.com/spic/s2977016.jpg" border="0"></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><a id="more"></a><a id="more-129"></a></p>
+<p>读书是今年开始的一项极有价值的活动，从爱上图书馆到订阅了8个类别的新书通告RSS；从走进B1到平均两天一本，我在其中不知收获了多少。</p>
+<p>以前从不曾想到流畅阅读，体会作者思想的快感会是如此深刻。至今仍然难以忘记第一次走进B1的激动，那在陌生中带着兴奋，如同闯进仙境的少年，小心翼翼地在其中穿越的经历在我敲下这些文字的时候仍是如此清晰地印在眼前。</p>
+<p>遗憾的是阅读的方向太杂，总是强调更多更多而不会舍弃，导致了不少半途而废和浅阅读的悲剧，而且一味的阅读有时带来的是缺乏实践，忽略技术上的实践是大忌啊。</p>
+<p><strong>观影</strong>：</p>
+<p><img src="http://chart.apis.google.com/chart?chs=400x200&amp;cht=bvs&amp;chd=s:AApaafWQQSUa&amp;chxt=y,x,x&amp;chxl=0:%7C0%7C5%7C10%7C15%7C20%7C25%7C30%7C1:%7C1%7C2%7C3%7C4%7C5%7C6%7C7%7C8%7C9%7C10%7C11%7C12%7C2:%7Cmonth&amp;chxp=2,100&amp;chf=c,lg,90,76A4FB,0.5,ffffff,0%7Cbg,s,EFEFEF&amp;chco=0000ff&amp;chtt=120%20movies+you+added+in+year+2010%7Cdivided+by+month" id="chartMonth">
+<div id="doubanlist">
+<table>
+<tbody>
+<tr></tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/1309046/" target="_blank" title="V for Vendetta"><img src="http://img3.douban.com/spic/s1884078.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4271894/" target="_blank" title="非诚勿扰2"><img src="http://img3.douban.com/spic/s4581419.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4845425/" target="_blank" title="Panty&amp;Stocking with Garterbelt"><img src="http://img3.douban.com/spic/s4496087.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1297192/" target="_blank" title="Identity"><img src="http://img3.douban.com/spic/s1384682.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3091433/" target="_blank" title="Formosa Betrayed"><img src="http://img5.douban.com/spic/s3112275.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1291858/" target="_blank" title="鬼子来了"><img src="http://img3.douban.com/spic/s2602062.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/3742360/" target="_blank" title="让子弹飞"><img src="http://img3.douban.com/spic/s4562687.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3319755/" target="_blank" title="Flipped"><img src="http://img3.douban.com/spic/s4387266.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2275370/" target="_blank" title="Unthinkable"><img src="http://img3.douban.com/spic/s3916263.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4739952/" target="_blank" title="สิ่งเล็กเล็กที่เรียกว่ารัก"><img src="http://img3.douban.com/spic/s4406154.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3120852/" target="_blank" title="The Ghost Writer"><img src="http://img3.douban.com/spic/s4149033.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1291548/" target="_blank" title="Dead Poets Society"><img src="http://img5.douban.com/spic/s1645905.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/1305903/" target="_blank" title="Cube"><img src="http://img3.douban.com/spic/s1399756.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3596502/" target="_blank" title="唐山大地震"><img src="http://img3.douban.com/spic/s4287549.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1291580/" target="_blank" title="Kill Bill: Vol. 1"><img src="http://img3.douban.com/spic/s3018008.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3792799/" target="_blank" title="岁月神偷"><img src="http://img3.douban.com/spic/s4226652.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4305436/" target="_blank" title="志明與春嬌"><img src="http://img3.douban.com/spic/s4197122.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3259993/" target="_blank" title="Zombieland"><img src="http://img3.douban.com/spic/s3936048.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/5300064/" target="_blank" title="世紀末オカルト学院"><img src="http://img3.douban.com/spic/s4400472.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3251306/" target="_blank" title="とある魔術の禁書目録"><img src="http://img3.douban.com/spic/s3263342.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/5344178/" target="_blank" title="11度青春之《老男孩》"><img src="http://img3.douban.com/spic/s4525371.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3541415/" target="_blank" title="Inception"><img src="http://img3.douban.com/spic/s4356687.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3205624/" target="_blank" title="The Social Network"><img src="http://img5.douban.com/spic/s4387115.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1485260/" target="_blank" title="The Curious Case of Benjamin Button"><img src="http://img3.douban.com/spic/s3391437.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/1293544/" target="_blank" title="The Silence of the Lambs"><img src="http://img3.douban.com/spic/s1317930.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1291875/" target="_blank" title="阳光灿烂的日子"><img src="http://img3.douban.com/spic/s1310982.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3893384/" target="_blank" title="化物語"><img src="http://img5.douban.com/spic/s3882275.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4312800/" target="_blank" title="屍鬼"><img src="http://img3.douban.com/spic/s4197742.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4291278/" target="_blank" title="オオカミさんと七人の仲間たち"><img src="http://img5.douban.com/spic/s4398895.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1292223/" target="_blank" title="Se7en"><img src="http://img3.douban.com/spic/s4027643.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/1772560/" target="_blank" title="Peaceful Warrior"><img src="http://img3.douban.com/spic/s1643711.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1304447/" target="_blank" title="Memento"><img src="http://img3.douban.com/spic/s3185152.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2363506/" target="_blank" title="Taare Zameen Par"><img src="http://img3.douban.com/spic/s4543761.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3072804/" target="_blank" title="Taking Chance"><img src="http://img3.douban.com/spic/s3626944.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4294046/" target="_blank" title="学園黙示録 HIGHSCHOOL OF THE DEAD"><img src="http://img3.douban.com/spic/s4469972.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2043546/" target="_blank" title="秒速5センチメートル"><img src="http://img5.douban.com/spic/s2158665.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/3397503/" target="_blank" title="Ghajini"><img src="http://img3.douban.com/spic/s3662372.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1309172/" target="_blank" title="50 First Dates"><img src="http://img3.douban.com/spic/s4026577.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4067827/" target="_blank" title="とある科学の超電磁砲"><img src="http://img3.douban.com/spic/s4003627.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4030310/" target="_blank" title="ソ・ラ・ノ・ヲ・ト"><img src="http://img3.douban.com/spic/s4084126.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1428176/" target="_blank" title="The Pacific"><img src="http://img5.douban.com/spic/s4200775.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4291876/" target="_blank" title="デュラララ!!"><img src="http://img3.douban.com/spic/s4132493.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/3785971/" target="_blank" title="うみねこのなく頃に"><img src="http://img3.douban.com/spic/s3512563.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3836494/" target="_blank" title="东之伊甸 剧场版Ⅱ Paradise Lost"><img src="http://img3.douban.com/spic/s4436471.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1292444/" target="_blank" title="バトル・ロワイアル"><img src="http://img3.douban.com/spic/s1314906.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4016495/" target="_blank" title="电波系彼女OVA 第2卷"><img src="http://img3.douban.com/spic/s4104518.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3793023/" target="_blank" title="3 Idiots"><img src="http://img3.douban.com/spic/s4433349.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3993682/" target="_blank" title="荒川アンダー ザ ブリッジ"><img src="http://img5.douban.com/spic/s4172415.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/4176566/" target="_blank" title="いちばんうしろの大魔王"><img src="http://img3.douban.com/spic/s4294728.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4881676/" target="_blank" title="紅"><img src="http://img3.douban.com/spic/s4401472.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2300586/" target="_blank" title="The Man from Earth"><img src="http://img3.douban.com/spic/s2761036.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4202090/" target="_blank" title="Angel Beats!"><img src="http://img5.douban.com/spic/s4165195.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2267155/" target="_blank" title="Please Vote for Me"><img src="http://img3.douban.com/spic/s2889758.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1292371/" target="_blank" title="四月物語"><img src="http://img3.douban.com/spic/s1312691.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/1307394/" target="_blank" title="千年女優"><img src="http://img3.douban.com/spic/s2599193.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4307476/" target="_blank" title="素直になれなくて"><img src="http://img3.douban.com/spic/s4307131.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2035642/" target="_blank" title="ベクシル -2077日本鎖国"><img src="http://img5.douban.com/spic/s2652005.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1296778/" target="_blank" title="Lolita"><img src="http://img3.douban.com/spic/s1483550.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1855131/" target="_blank" title="東京タワー～オカンとボクと、時々、オトン～"><img src="http://img3.douban.com/spic/s2756561.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1418179/" target="_blank" title="電車男"><img src="http://img3.douban.com/spic/s1431042.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/1421823/" target="_blank" title="NANA"><img src="http://img3.douban.com/spic/s1644056.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1307884/" target="_blank" title="Ringu 0: Baasudei"><img src="http://img3.douban.com/spic/s2398058.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3993267/" target="_blank" title="「再会」～横田めぐみさんの願い～"><img src="http://img3.douban.com/spic/s4422499.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1937946/" target="_blank" title="時をかける少女"><img src="http://img3.douban.com/spic/s2353521.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2369845/" target="_blank" title="容疑者Xの献身"><img src="http://img3.douban.com/spic/s3233353.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2567646/" target="_blank" title="ヱヴァンゲリヲン新劇場版:破"><img src="http://img3.douban.com/spic/s3294933.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/2330733/" target="_blank" title="東京少女"><img src="http://img3.douban.com/spic/s2790343.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4019449/" target="_blank" title="バカとテストと召喚獣"><img src="http://img3.douban.com/spic/s3966921.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1296206/" target="_blank" title="Paran daemun"><img src="http://img3.douban.com/spic/s2597714.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1293359/" target="_blank" title="菊次郎の夏"><img src="http://img3.douban.com/spic/s1317850.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2136824/" target="_blank" title="Invictus"><img src="http://img5.douban.com/spic/s4035585.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1307696/" target="_blank" title="リング"><img src="http://img3.douban.com/spic/s2870571.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/4018324/" target="_blank" title="LOST Season 6"><img src="http://img3.douban.com/spic/s4065212.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3196716/" target="_blank" title="Lost (Season 5)"><img src="http://img3.douban.com/spic/s3403512.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1309101/" target="_blank" title="Charlie and the Chocolate Factory"><img src="http://img5.douban.com/spic/s1429645.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3102668/" target="_blank" title="Cloudy with a Chance of Meatballs"><img src="http://img3.douban.com/spic/s3874162.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2153016/" target="_blank" title="Lost (Season 4)"><img src="http://img3.douban.com/spic/s2879017.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2046839/" target="_blank" title="Frequently Asked Questions About Time Travel"><img src="http://img5.douban.com/spic/s3972535.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/3006772/" target="_blank" title="District 9"><img src="http://img3.douban.com/spic/s3866706.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1291843/" target="_blank" title="The Matrix"><img src="http://img3.douban.com/spic/s3052684.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4122204/" target="_blank" title="グーグル革命の衝撃 あなたの人生を検索が変える"><img src="http://img3.douban.com/spic/s4099711.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2147854/" target="_blank" title="Yes Man"><img src="http://img3.douban.com/spic/s3375247.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1304854/" target="_blank" title="Legally Blonde"><img src="http://img3.douban.com/spic/s2545504.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3442220/" target="_blank" title="The Cove"><img src="http://img3.douban.com/spic/s4101713.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/4074292/" target="_blank" title="涼宮ハルヒの消失"><img src="http://img3.douban.com/spic/s4100333.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3737102/" target="_blank" title="艋舺"><img src="http://img3.douban.com/spic/s4115554.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1986910/" target="_blank" title="Lost (Season 3)"><img src="http://img3.douban.com/spic/s2355052.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1323749/" target="_blank" title="AV"><img src="http://img3.douban.com/spic/s1502783.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2078864/" target="_blank" title="Gossip Girl"><img src="http://img3.douban.com/spic/s2697834.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4296145/" target="_blank" title="NG:MegaStructures:The Canton Tower"><img src="http://img3.douban.com/spic/s4180549.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/3780763/" target="_blank" title="National Geographic: The FBI"><img src="http://img3.douban.com/spic/s3824142.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4217424/" target="_blank" title="National Geographic Inside Marine One"><img src="http://img3.douban.com/spic/s4117711.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3806748/" target="_blank" title="&quot;National Geographic Explorer&quot; Inside North Korea"><img src="http://img3.douban.com/spic/s3316522.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4160344/" target="_blank" title="国家地理.伟大工程巡礼系列E79.吉萨金字塔"><img src="http://img3.douban.com/spic/s4567480.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3329192/" target="_blank" title="未来警察"><img src="http://img3.douban.com/spic/s4207067.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1432699/" target="_blank" title="Linda Linda Linda"><img src="http://img3.douban.com/spic/s1511727.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/1308799/" target="_blank" title="一个陌生女人的来信"><img src="http://img3.douban.com/spic/s3042173.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3818986/" target="_blank" title="Chu-Bra/ちゅーぶら"><img src="http://img5.douban.com/spic/s4133965.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3041261/" target="_blank" title="The Fourth Kind"><img src="http://img3.douban.com/spic/s4043190.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4172537/" target="_blank" title="National Geographic Inside : Air Force One"><img src="http://img3.douban.com/spic/s4080563.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1474189/" target="_blank" title="Saw III"><img src="http://img3.douban.com/spic/s1679281.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1292226/" target="_blank" title="2001: A Space Odyssey"><img src="http://img3.douban.com/spic/s1311508.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/3073124/" target="_blank" title="Moon"><img src="http://img5.douban.com/spic/s4048415.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1652587/" target="_blank" title="Avatar"><img src="http://img3.douban.com/spic/s4065701.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2969282/" target="_blank" title="Seven Pounds"><img src="http://img3.douban.com/spic/s3325833.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3737082/" target="_blank" title="NG.MS.China.Beijing.Water.Cube"><img src="http://img3.douban.com/spic/s4568513.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2156528/" target="_blank" title="The Big Bang Theory"><img src="http://img3.douban.com/spic/s2697823.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4725571/" target="_blank" title="中朝国境で何が起きているか～鴨緑江800キロを行く～"><img src="http://img3.douban.com/spic/s4236852.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/3892207/" target="_blank" title="にっぽんの現場 「秋葉原 年の瀬の物語」"><img src="http://img3.douban.com/spic/s3908587.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3727343/" target="_blank" title="北漂一族"><img src="http://img3.douban.com/spic/s3778598.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4219762/" target="_blank" title="ワーキングプア ～働いても働いても豊かになれない～"><img src="http://img3.douban.com/spic/s4128204.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2129039/" target="_blank" title="Up"><img src="http://img3.douban.com/spic/s3563529.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3993189/" target="_blank" title="K-ON!けいおん!轻音少女 番外OVA"><img src="http://img3.douban.com/spic/s3949947.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/4030439/" target="_blank" title="こわれかけ の オルゴール"><img src="http://img3.douban.com/spic/s3974887.jpg" border="0"></a></td>
+</tr>
+<tr>
+<td><a href="http://movie.douban.com/subject/2028645/" target="_blank" title="The Hurt Locker"><img src="http://img3.douban.com/spic/s3874161.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/1295647/" target="_blank" title="Contact"><img src="http://img3.douban.com/spic/s1317946.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2214234/" target="_blank" title="Lost （Season 1）"><img src="http://img3.douban.com/spic/s3563499.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/2344755/" target="_blank" title="Lost (Season 2)"><img src="http://img3.douban.com/spic/s3778334.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3681349/" target="_blank" title="けいおん!"><img src="http://img3.douban.com/spic/s3653910.jpg" border="0"></a></td>
+<td><a href="http://movie.douban.com/subject/3836490/" target="_blank" title="東のエデン 劇場版I  The King of Eden"><img src="http://img3.douban.com/spic/s3943771.jpg" border="0"></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>这一年，你在豆瓣电影“看过”121部电影--其中21部是2010年新上映的，如果不眠不休大约需要8天8小时5分钟看完。写了0篇长评，还写了21 篇短评，为喜爱的电影与影人上传了0张图片。 打出了7.3的平均分，看来你只是基本满意。 愿新的一年，豆瓣电影与你同在。</p>
+<p>啊。。明年还要读更多的书，观更多的影，追更多的新番。<br />
+活着真是太好了。</p>
+<p><strong>回忆</strong>：</p>
+<p>一月：<br />
+参加了自曲新闻（<a href="http://twitter.com/freemoren">@freemoren</a>）的假期实习<br />
+武汉推友聚会<br />
+入手一台HP笔记本<br />
+二月：<br />
+开了第一个Wordpress博客，使用.tk和免费的国外主机<br />
+三月：<br />
+入手黑莓8800，在一段时间的适应后，它开始为我带来持续的优秀体验<br />
+鉴于上个国外主机有广告，用Byteact的免费空间搭建了<a href="http://mescoda.tk/">第二个博客</a>，可惜IP被墙<br />
+四月：<br />
+大量逃课并爱上图书馆<br />
+五月：<br />
+加入OSLH<br />
+听了老罗的讲座<a href="http://v.youku.com/v_show/id_XMjI2MjU3MDMy.html">《一个理想主义者的创业故事》</a>，深受感动<br />
+<a href="http://mescoda.com/2010/05/twitter-together-in-harbin/">哈尔滨推友聚会</a><br />
+六月：<br />
+参加学校的机器人仿真足球大赛，在通宵三天的成果下进了前五，可惜无下文<br />
+七月：<br />
+期末复习<br />
+结束大一<br />
+八月：<br />
+<a href="http://mescoda.com/2010/08/summer-vacation-summary/">愉快的暑假生活</a><br />
+对Web开发萌生兴趣<br />
+Mescoda's Blog在.com域名和付费主机的应援下再次开张<br />
+九月：<br />
+被拉入一个立项<br />
+开始缓慢学习PHP<br />
+十月：<br />
+<a href="http://mescoda.com/2010/10/software-required/">搞到一台上网本</a><br />
+在意识到社交面逐渐狭窄、与老同学们的联系越来越少的情况下，终于用上了人人<br />
+十一月：<br />
+在一个飘雪的日子与哈尔滨的几位右派前辈、民主圈老师吃了次饭<br />
+十二月：<br />
+入手Kindle3<br />
+期末复习</p>
+<p>算是过得很充实的一年吧，有许多的惊喜和兴奋，也有许多的不爽和不淡定，除去上面的寥寥回忆，还有无数感动的瞬间和耐人寻味的经历，但是始终没想到，今天回望，过去的脚印竟可以如同走在雪地上一般清晰。</p>
+<p>去年这个时候曾经说过“希望明年能在泪流满面中更加坚强，能在技术宅的道路上开始新的人生”，这。。算是做到了一些吧。</p>
+<p>但是今年也是很庞杂的一年，在不断的自我教育和野蛮生长下，我的确又成长了许多，但更多的时候做事依旧不够专注，为人依旧不够平和有趣。</p>
+<p>在这样的一年，我也面临过很多的选择，也有过望着镜子里陌生的自己皱起眉头，但终究很庆幸的是在确信自己一直在保持做有价值的事的同时，我仍旧对明年充满期待：希望明年的我能够更加专注，能够在自己选择的道路上不断进步，能够实实在在地做出几个东西来，能够一方面具备阳春白雪的能力，一方面也能亦正亦邪，平和有趣。</p>

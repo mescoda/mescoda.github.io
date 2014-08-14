@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    {% if page.title %}
+        <title>{{ page.title }} - {{ site.name }}</title>
+    {% else %}
+        <title>{{ site.name }}</title>
+    {% endif %}
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed" />
+    <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header">
+            <h1 class="logo">
+                <a href="/" class="logo-link" title="{{ site.name }}">{{ site.name }}</a>
+            </h1>
+            <ul class="nav">
+                {% for nav in site.navs %}
+                <li class="nav-item">
+                    <a href="{{ nav.url }}" class="nav-item-link" title="{{ nav.title }}">{{ nav.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="main">
+            {{ content }}
+        </div>
+        <div class="footer">
+            <p class="copyright">
+                {% assign first_post = site.posts | last %}
+                &copy; {{ first_post.date | date: "%Y" }} ~ {{ site.time | date: "%Y" }} {{ site.author }} | powered by jekyll | fork from <a href="http://lhzhang.com" title="sext vi">sext vi</a> by <a href="http://mescoda.com/" title="mescoda">mescoda</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>

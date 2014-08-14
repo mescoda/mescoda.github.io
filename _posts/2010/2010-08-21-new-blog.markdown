@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: "新博客"
+author:
+  display_name: mescoda
+  login: mescoda
+  email: mescodasun@gmail.com
+  url: ''
+author_login: mescoda
+author_email: mescodasun@gmail.com
+wordpress_id: 35
+wordpress_url: http://mescoda.com/?p=35
+date: '2010-08-21 21:39:55 +0800'
+date_gmt: '2010-08-21 13:39:55 +0800'
+categories:
+- "飘逸的生活"
+tags:
+- Journal
+- Blog
+comments:
+- id: 2
+  author: Leo_wei
+  author_email: weisw0310@gmail.com
+  author_url: http://www.paradoxleo.com
+  date: '2010-08-21 21:45:16 +0800'
+  date_gmt: '2010-08-21 13:45:16 +0800'
+  content: "恭喜恭喜！新站看起来很舒服，访问速度很快~~\r\n\r\nPS：偶是不会介意的~以后记得用插件每天备份数据库就好啦~~"
+- id: 3
+  author: mescoda
+  author_email: mescodasun@gmail.com
+  author_url: ''
+  date: '2010-08-21 22:44:28 +0800'
+  date_gmt: '2010-08-21 14:44:28 +0800'
+  content: "@Leo_wei, 恩恩 谢谢啦。一定养成习惯。。"
+- id: 5
+  author: Leo_wei
+  author_email: weisw0310@gmail.com
+  author_url: http://www.paradoxleo.com
+  date: '2010-08-21 23:12:10 +0800'
+  date_gmt: '2010-08-21 15:12:10 +0800'
+  content: "@mescoda, 建议你把永久链接改为\r\ndomain/year/month/post-name\r\n这样比较浅的网址，对爬虫更友好。同时这样和Blogger的链接是一样的，方便你在Blogger上面建立镜像。"
+---
+<p>终于忍受不了了免费主机的访问速度，在哈尔滨用网通被墙，在武汉用电信勉强能访问，ping值常年不存在，最后竟然连评论的邮箱通知都悲剧了。于是换上了这个.com域名和美利坚主机。</p>
+<p>写博客的好处已经无需多言，而且这是个没有博客都不好意思说自己在混互联网的年代，虽说搬家至此才不到一天的时间，但已经可以深深的感觉到对于这个自己投入了的东西，会更加的负责，会更加的乐于折腾。</p>
+<p>没有选择将上一个.tk的数据库导入，那个后台已经混乱不堪，备份下来的速度估计也会难以忍受，不要钱的东西自己果然不会好好打理，各种插件的各种问题也长时间懒得解决，于是重新搭建手动文章更新，唯一遗憾的是Leo同学的两则评论没法导入了，Leo同学不会介意吧。</p>

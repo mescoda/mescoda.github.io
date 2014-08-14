@@ -1,0 +1,78 @@
+---
+layout: post
+status: publish
+published: true
+title: Mescoda’s 2012
+author:
+  display_name: mescoda
+  login: mescoda
+  email: mescodasun@gmail.com
+  url: ''
+author_login: mescoda
+author_email: mescodasun@gmail.com
+excerpt: "1 月：\r\n入 iP4s\r\n2 月：\r\n去北京入职 QQ 美食产品组\r\n回学校补考\r\n3 月：\r\n从 QQ 美食离职返校\r\n<a
+  href=\"http://mescoda.com/2012/07/farewell-letter/\" title=\"\">放弃做 PM 的念头</a>\r\n4
+  月：\r\n回武汉参加腾讯校招，拿到 ISUX 的重构 offer\r\n5 月：\r\n帮国内某个 NGO 组织做官网赚零花钱\r\n6 月：\r\n结束大三\r\n7
+  月：\r\n在中科院合肥研究所实习一周\r\n拍下了「我在中科院全超导托卡马克核聚变实验装置控制大厅写代码」的照片\r\n去深圳入职<a href=\"http://ecd.tencent.com/\"
+  title=\"\">腾讯电商用户体验设计部</a>\r\n8 月：\r\n到北京参加 <a href=\"http://2012.html5dw.com/conf.html\"
+  title=\"\">HTML5 年会</a>，和 nstal paramiao 一起做的 HTML5 游戏「Project Nolava」拿到 codejam
+  第二名\r\n和 nstal <a href=\"http://weibo.com/siriusplanet\" title=\"\">Sirius 姐</a>一起到香港参加
+  「Comic World Hong Kong 34」\r\n顺便跟<a href=\"http://bitinn.net/\" title=\"\">店长</a>面基\r\n顺便入
+  iPod classic\r\n9 月：\r\n从腾讯离职回家\r\n开始在 <a href=\"http://zh.gengo.com/\" title=\"\">gengo</a>
+  上做翻译任务玩\r\n10 月：\r\n参加百度校招，拿到前端 offer\r\n收到腾讯的留用 offer\r\n11 月：\r\n考完大学最后一场考试\r\n12
+  月：\r\n做完大学最后一次课程设计\r\n\r\n"
+wordpress_id: 622
+wordpress_url: http://mescoda.com/?p=622
+date: '2012-12-31 10:08:16 +0800'
+date_gmt: '2012-12-31 02:08:16 +0800'
+categories:
+- "飘逸的生活"
+tags:
+- Summary
+comments:
+- id: 2612
+  author: Jialu
+  author_email: jialuli0508@gmail.com
+  author_url: ''
+  date: '2013-01-23 04:24:08 +0800'
+  date_gmt: '2013-01-22 20:24:08 +0800'
+  content: "我觉得你好像是隐藏很深的大神。。。"
+---
+<p>1 月：<br />
+入 iP4s<br />
+2 月：<br />
+去北京入职 QQ 美食产品组<br />
+回学校补考<br />
+3 月：<br />
+从 QQ 美食离职返校<br />
+<a href="http://mescoda.com/2012/07/farewell-letter/" title="">放弃做 PM 的念头</a><br />
+4 月：<br />
+回武汉参加腾讯校招，拿到 ISUX 的重构 offer<br />
+5 月：<br />
+帮国内某个 NGO 组织做官网赚零花钱<br />
+6 月：<br />
+结束大三<br />
+7 月：<br />
+在中科院合肥研究所实习一周<br />
+拍下了「我在中科院全超导托卡马克核聚变实验装置控制大厅写代码」的照片<br />
+去深圳入职<a href="http://ecd.tencent.com/" title="">腾讯电商用户体验设计部</a><br />
+8 月：<br />
+到北京参加 <a href="http://2012.html5dw.com/conf.html" title="">HTML5 年会</a>，和 nstal paramiao 一起做的 HTML5 游戏「Project Nolava」拿到 codejam 第二名<br />
+和 nstal <a href="http://weibo.com/siriusplanet" title="">Sirius 姐</a>一起到香港参加 「Comic World Hong Kong 34」<br />
+顺便跟<a href="http://bitinn.net/" title="">店长</a>面基<br />
+顺便入 iPod classic<br />
+9 月：<br />
+从腾讯离职回家<br />
+开始在 <a href="http://zh.gengo.com/" title="">gengo</a> 上做翻译任务玩<br />
+10 月：<br />
+参加百度校招，拿到前端 offer<br />
+收到腾讯的留用 offer<br />
+11 月：<br />
+考完大学最后一场考试<br />
+12 月：<br />
+做完大学最后一次课程设计</p>
+<p><a id="more"></a><a id="more-622"></a></p>
+<p>过去的 2012 年，读了 80 本书，看过 91 部电影，经历 17 次旅途，在 6 个城市间游荡。</p>
+<p>先后在腾讯的两个部门做过两个职位的实习生；重新审视了过去的欲望也重新立下新的目标；参加了两次校招，很幸运都拿到 offer；收获了很多东西但亦失去了获得另外一些东西的可能。</p>
+<p>此外今年还发生了其他许多事情，或者不值一提，或者还未到提及的时候。</p>
+<p>就像以往许多时刻一样，未来依旧不可预料，但无论如何，步伐总是轻快了一些。</p>

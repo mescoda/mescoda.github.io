@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="article">
+    <div class="article-hd">
+        <h2 class="article-hd-title">
+            {{ page.title }}
+        </h2>
+        <div class="artitle-hd-meta">
+            <span class="article-hd-meta-time">{{ page.date | date:"%Y-%m-%d" }}</span>
+        </div>
+    </div>
+    <div class="article-bd">
+        {{ content }}
+    </div>
+    <div class="article-pager">
+        <span class="article-pager-prev">
+            {% if page.previous %}
+                <a href="{{ page.previous.url }}" class="article-pager-prev-link" title="{{ page.previous.title }}">&lt;</a>
+            {% else %}
+                <span class="article-pager-item-none"></span>
+            {% endif %}
+        </span>
+        <span class="article-pager-next">
+            {% if page.next %}
+                <a href="{{ page.next.url }}" class="article-pager-next-link" title="{{ page.next.title }}">&gt;</a>
+            {% else %}
+                <span class="article-pager-item-none"></span>
+            {% endif %}
+        </span>
+    </div>
+</div>

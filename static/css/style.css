@@ -1,0 +1,309 @@
+@charset "utf-8";
+
+/*base*/
+
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+iframe,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+pre,
+form,
+button,
+input,
+textarea,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+img {
+    border: 0;
+    display: block;
+}
+ol,
+ul {
+    list-style: none;
+}
+h1,
+h2,
+h3,
+h4 {
+    font-size: 100%;
+}
+i,
+em {
+    font-style: normal;
+    font-weight: normal;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+body,
+button,
+input,
+select,
+textarea {
+    font: 12px/1.5 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+body {
+    background-color: #FFF;
+}
+.clearfix:after {
+    content: '';
+    display: block;
+    clear: both;
+    height: 0;
+}
+.clearfix {
+    zoom: 1;
+}
+
+/*page*/
+
+body,
+button,
+input,
+select,
+textarea {
+    font: 14px/1.5 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'WenQuanYi Micro Hei', 'Microsoft YaHei', sans-serif;
+}
+body {
+    background-color: #F9F9F9;
+    color: #555;
+}
+a {
+    text-decoration: none;
+    color: #BB2222;
+}
+a:hover {
+    color: #DD1144;
+}
+
+::selection {
+    color: #FFF;
+    background-color: #333;
+}
+
+.wrapper {
+    width: 680px;
+    margin: 0 auto;
+}
+
+/*header*/
+
+.header {
+    overflow: hidden;
+    *zoom: 1;
+    margin: 40px 0;
+}
+.logo {
+    float: left;
+    font-size: 20px;
+    font-weight: 400;
+}
+.logo-link {
+    color: #A9A9A9;
+}
+.logo-link:hover {
+    color: #BB2222;
+}
+.nav {
+    float: right;
+}
+.nav-item {
+    float: left;
+}
+.nav-item-link {
+    float: left;
+    _display: inline;
+    color: #CCC;
+    margin-left: 15px;
+}
+.nav-item-link:hover {
+    color: #DD1144;
+}
+
+
+/*article*/
+
+.article {
+    margin-bottom: 30px;
+}
+.article-hd {
+    margin-bottom: 10px;
+}
+.article-hd-title {
+    font-size: 20px;
+}
+.article-hd-title-link {
+    color: #777;
+}
+.artitle-hd-meta {
+    height: 26px;
+    line-height: 26px;
+}
+.article-hd-meta-time {
+    font-size: 12px;
+}
+
+.article-bd p {
+    line-height: 2;
+    margin-bottom: 20px;
+}
+.article-bd img {
+    max-width: 680px;
+    margin: 10px auto;
+}
+.article-bd ul {
+    list-style-type: circle;
+    margin: 20px;
+    padding: 0 15px;
+}
+.article-bd ul ul {
+    list-style-type: square;
+    margin: 20px;
+    padding: 0 15px;
+}
+.article-bd ol {
+    list-style-type: hiragana;
+    margin: 20px;
+    padding: 0 15px;
+}
+.article-bd ol ol {
+    list-style-type: lower-roman;
+    margin: 20px;
+    padding: 0 15px;
+}
+
+blockquote,
+pre code {
+    display: block;
+    background-color: #F8F8F8;
+    overflow: auto;
+    padding: 10px 15px;
+    border: 1px solid #E0E0E0;
+    border-color: #DDD #EEE #EEE #DDD;
+}
+code {
+    font-family: Menlo, Monaco, 'Andale Mono', 'lucida console', 'Courier New', monospace;
+}
+
+hr {
+    width: 4em;
+    border-top: 1px dashed #D0D0D0;
+}
+
+.article-pager {
+    margin: 30px 0;
+    text-align: center;
+    position: relative;
+}
+.article-pager::before,
+.article-pager::after {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 40%;
+    background-color: #F0F0F0;
+    top: 49%;
+}
+
+.article-pager::before {
+    left: 0;
+}
+.article-pager::after {
+    right: 0;
+}
+
+.article-pager-prev,
+.article-pager-next {
+    padding: 0 30px;
+
+}
+.article-pager-prev-link,
+.article-pager-next-link {
+    color: #CCC;
+    font-family: simsun;
+    font-weight: 700;
+}
+
+.article-pager-item-none {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: #CCC;
+    border-radius: 50%;
+}
+
+
+/*archive*/
+
+.archive-title {
+    font-weight: 400;
+    height: 28px;
+    line-height: 28px;
+}
+
+.archive-list-item {
+    height: 30px;
+    line-height: 30px;
+}
+.archive-list-item-time {
+    color: #999;
+}
+.archive-list-item-title {
+    margin-left: 30px;
+}
+
+/*page*/
+
+.page-title {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+/*footer*/
+
+.footer {
+    margin: 30px 0 10px;
+    font-size: 12px;
+    color: #909090;
+}
+.copyright {
+    text-align: center;
+}
+.copyright a {
+    color: #CCC;
+}
+.copyright a:hover {
+    color: #999;
+}

@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: "杂谈@110625"
+author:
+  display_name: mescoda
+  login: mescoda
+  email: mescodasun@gmail.com
+  url: ''
+author_login: mescoda
+author_email: mescodasun@gmail.com
+excerpt: "【近况】\r\n上次半月谈是四月中旬的事情了，期间随着被封印半年的哈尔滨开始显露出春天的迹象，各种todo的洪流也如尿崩一样向我袭来，在四月后半就显露出明显五月病症状的我，由于种种已不想回忆的经历，实在没有对得起半月谈这个名字，以后果然还是改杂谈好了。前两天又了结了一门考试，在这个喘息的间隙，希望能把这段时间的草稿想法都整理出来。\r\n\r\n【Web-dev】\r\n考《辐射防护》之前就做了个图书馆的手机版
+  <a href=\"http://open.hrbeu.edu.cn/mlib/\">HeuLib</a>，不用想就知道学校图书馆肯定不会给我提供接口或者数据库权限之类的东西，于是就直接抓取重构出了新的页面，域名服务器都是实验室的，大家可以想象用mescoda.com在用的美国主机连图书馆必定是常年timeout，于是厚颜找老师申请域名服务器做实验室站点顺便挂上这个东西。\r\n\r\n最近还做了个新浪微博的RSS生成工具
+  <a href=\"http://open.hrbeu.edu.cn/strss/\">STRss</a>，起因是想看/保存米原康正发的那些大波美少女（尤其是后来自己删的）和木子美老师的【随手转发解救大乳女青年】系列（同样尤其是后来自己删的）。\r\n\r\n上面的<a
+  href=\"http://open.hrbeu.edu.cn/mlib/\">HeuLib</a>和<a href=\"http://open.hrbeu.edu.cn/strss/\">STRss</a>都还是些小东西，希望接下来能上手大点的，顺便能按照正常的产品开发步骤写文档分析需求什么的就更好了。\r\n\r\n"
+wordpress_id: 332
+wordpress_url: http://mescoda.com/?p=332
+date: '2011-06-25 22:05:52 +0800'
+date_gmt: '2011-06-25 14:05:52 +0800'
+categories:
+- "杂谈"
+tags:
+- Anime
+- Web-dev
+- iPod
+comments:
+- id: 252
+  author: NStal
+  author_email: nstalmail@gmail.com
+  author_url: http://www.nstal.cz.cc
+  date: '2011-06-26 10:43:03 +0800'
+  date_gmt: '2011-06-26 02:43:03 +0800'
+  content: "节哀顺变.."
+---
+<p>【近况】<br />
+上次半月谈是四月中旬的事情了，期间随着被封印半年的哈尔滨开始显露出春天的迹象，各种todo的洪流也如尿崩一样向我袭来，在四月后半就显露出明显五月病症状的我，由于种种已不想回忆的经历，实在没有对得起半月谈这个名字，以后果然还是改杂谈好了。前两天又了结了一门考试，在这个喘息的间隙，希望能把这段时间的草稿想法都整理出来。</p>
+<p>【Web-dev】<br />
+考《辐射防护》之前就做了个图书馆的手机版 <a href="http://open.hrbeu.edu.cn/mlib/">HeuLib</a>，不用想就知道学校图书馆肯定不会给我提供接口或者数据库权限之类的东西，于是就直接抓取重构出了新的页面，域名服务器都是实验室的，大家可以想象用mescoda.com在用的美国主机连图书馆必定是常年timeout，于是厚颜找老师申请域名服务器做实验室站点顺便挂上这个东西。</p>
+<p>最近还做了个新浪微博的RSS生成工具 <a href="http://open.hrbeu.edu.cn/strss/">STRss</a>，起因是想看/保存米原康正发的那些大波美少女（尤其是后来自己删的）和木子美老师的【随手转发解救大乳女青年】系列（同样尤其是后来自己删的）。</p>
+<p>上面的<a href="http://open.hrbeu.edu.cn/mlib/">HeuLib</a>和<a href="http://open.hrbeu.edu.cn/strss/">STRss</a>都还是些小东西，希望接下来能上手大点的，顺便能按照正常的产品开发步骤写文档分析需求什么的就更好了。</p>
+<p><a id="more"></a><a id="more-332"></a></p>
+<p>【iPod】<br />
+陪伴我六年的iPod mini不见了 ，05年考了个武珞路年级第一时爸爸送我的礼物，那年七月初以1980的价格购于当时还不怎么繁华的电脑城。至此，我再也不能以一个六年苹果用户的资深口气装逼了。</p>
+<p><a href="http://www.flickr.com/photos/mescoda/5228323167/" title="SAM_1366 by Mescoda, on Flickr"><img src="http://farm6.static.flickr.com/5207/5228323167_640201df66.jpg" width="500" height="375" alt="SAM_1366"></a></p>
+<p><a href="http://www.flickr.com/photos/mescoda/5228916474/" title="DSCF1993 by Mescoda, on Flickr"><img src="http://farm6.static.flickr.com/5285/5228916474_a5957f9a3e.jpg" width="500" height="375" alt="DSCF1993"></a></p>
+<p><a href="http://www.flickr.com/photos/mescoda/5217891020/" title="DSCF2006 by Mescoda, on Flickr"><img src="http://farm5.static.flickr.com/4088/5217891020_6ef401ef31.jpg" width="500" height="375" alt="DSCF2006"></a></p>
+<p>这些是她最后的照片，摄于去年11月，当时她和她的朋友们在一起。</p>
+<p>【四月番】<br />
+四月的质量很高，可惜<a href="http://mescoda.com/2011/04/semi-monthly-talk-110418/">上次</a>的列表里只有《命运石之门》《C》《赌博默示录》《花开物语》一直在好好追，其中尤以《命运石之门》最佳，让我有强烈想玩原作的冲动（暑假有个好友貌似正好要买Xbox和Kinect）。</p>

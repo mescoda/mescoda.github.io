@@ -1,0 +1,17 @@
+name: Mescoda's Blog
+
+author: mescoda
+
+markdown: kramdown
+highlighter: pygments
+permalink: /:year/:month/:title
+
+url: http://mescoda.com
+
+navs:
+    - title: Archive
+      url: /archive
+    - title: About
+      url: /about
+    - title: RSS
+      url: /feed

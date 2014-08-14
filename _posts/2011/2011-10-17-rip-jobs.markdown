@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: "如今他走了"
+author:
+  display_name: mescoda
+  login: mescoda
+  email: mescodasun@gmail.com
+  url: ''
+author_login: mescoda
+author_email: mescodasun@gmail.com
+excerpt: "我是05年开始用苹果产品的，基本算是身边同学里最早的，一台iPod mini，很好用，我很喜欢她，但也仅限于此，关注乔布斯是直到最近一两年也就是iPhone流行起来的时候才开始的。\r\n\r\n很多人都在不经意间将他们的偶像臆测成了道德上无懈可击，私生活毫无瑕疵的人。乔布斯不是完美的人，他也从不会想要追求完美得到所有人的喜爱，他知道自己该在乎什么，如何保持专注，他很早就意识到自己的时间有限，因此一直牢牢掌握着自己的选择。这是他教会我最重要的一点。\r\n\r\n"
+wordpress_id: 403
+wordpress_url: http://mescoda.com/?p=403
+date: '2011-10-17 12:56:00 +0800'
+date_gmt: '2011-10-17 04:56:00 +0800'
+categories:
+- "杂谈"
+tags:
+- Apple
+comments:
+- id: 3365
+  author: Lorean Crumpler
+  author_email: coenaculous@gmail.com
+  author_url: http://
+  date: '2013-05-22 05:38:19 +0800'
+  date_gmt: '2013-05-21 21:38:19 +0800'
+  content: "Prior to iOS 5, the iPod branding was used for the media player included
+    with the iPhone and iPad, a combination of the Music and Videos apps on the iPod
+    Touch. As of iOS 5, separate apps named \"Music\" and \"Video\" are standardized
+    across all iOS-powered products. While the iPhone and iPad have essentially the
+    same media-player capabilities as the iPod line, they are generally treated as
+    separate products. In the last few years, iPhone and iPad sales have overtaken
+    those of the iPod.^^''\r\n\r\nhttp://www.picturesofherpes.co<blockquote></blockquote>Hottest
+    content article on our internet site"
+---
+<p>我是05年开始用苹果产品的，基本算是身边同学里最早的，一台iPod mini，很好用，我很喜欢她，但也仅限于此，关注乔布斯是直到最近一两年也就是iPhone流行起来的时候才开始的。</p>
+<p>很多人都在不经意间将他们的偶像臆测成了道德上无懈可击，私生活毫无瑕疵的人。乔布斯不是完美的人，他也从不会想要追求完美得到所有人的喜爱，他知道自己该在乎什么，如何保持专注，他很早就意识到自己的时间有限，因此一直牢牢掌握着自己的选择。这是他教会我最重要的一点。</p>
+<p><a id="more"></a><a id="more-403"></a></p>
+<p>据说乔布斯和盖茨都有过同样的梦想：让每个家庭都有电脑。如今他们的梦想早已实现，但你会发现，这个事实却并未完全让电脑进入生活，对于很多人来说互联网还只是工具，交互手段除了键盘输入就是点击拖拽，一切似乎都还那么原始。尽一切可能去探索，但一切都才刚刚开始，这个世界就是如此，但这也正是这个世界的迷人之处。</p>
+<p>乔布斯用尽一生探索科技与艺术的结合，如今他走了，到我们了。</p>
