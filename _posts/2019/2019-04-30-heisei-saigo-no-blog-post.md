@@ -31,7 +31,7 @@ title: 平成最後の blog post
 
 [天皇陛下の御退位及び皇太子殿下の御即位に伴う式典の挙行に係る基本方針](http://www.kantei.go.jp/jp/singi/taii_junbi/pdf/h300330_kihon_housin.pdf)
 
-[平成31年4月30日及び5月1日に行われる御退位及び御即位関連式典について | 首相官邸ホームページ](http://www.kantei.go.jp/jp/headline/gotaii_gosokui/sikiten.html)
+[平成31年4月30日及び5月1日に行われる御退位及び御即位関連式典について ｜ 首相官邸ホームページ](http://www.kantei.go.jp/jp/headline/gotaii_gosokui/sikiten.html)
 
 [天皇陛下退位へ、一連の儀式始まる　「御告文」読み上げ](https://www.asahi.com/articles/ASM3C3T52M3CUTIL00K.html)
 
@@ -43,7 +43,7 @@ title: 平成最後の blog post
 
 [令和への代替わり儀式　宮殿内部を解説：日本経済新聞](https://vdata.nikkei.com/newsgraphics/kaigen-kyuden/)
 
-[御代替り | 神社本庁](https://www.jinjahoncho.or.jp/miyogawari)
+[御代替り ｜ 神社本庁](https://www.jinjahoncho.or.jp/miyogawari)
 
 [ご即位・立太子・成年に関する用語 - 宮内庁](http://www.kunaicho.go.jp/word/word-sokui.html)
 
