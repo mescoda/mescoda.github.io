@@ -3,7 +3,7 @@ name: Mescoda's Blog
 author: mescoda
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:year/:month/:title
 
 url: http://mescoda.com
